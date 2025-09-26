@@ -27,6 +27,21 @@
       "componentType" : "LABEL",
       "groupIdentifier" : "flow-contents-group",
       "height" : 150.0,
+      "identifier" : "587d0f03-4a78-354b-b557-02d04676cc30",
+      "label" : "chau",
+      "position" : {
+        "x" : -688.9999697463359,
+        "y" : -121.99996218240244
+      },
+      "style" : {
+        "font-size" : "12px"
+      },
+      "width" : 150.0,
+      "zIndex" : 2
+    }, {
+      "componentType" : "LABEL",
+      "groupIdentifier" : "flow-contents-group",
+      "height" : 150.0,
       "identifier" : "f15669f9-6dd3-329f-9862-be9dbe71ca86",
       "label" : "hola",
       "position" : {
@@ -148,6 +163,6 @@
   "snapshotMetadata" : {
     "author" : "f45b8fe2-113f-47aa-8d90-713eca4cea43",
     "flowIdentifier" : "hola",
-    "timestamp" : 1758919965219
+    "timestamp" : 1758919992867
   }
 }
