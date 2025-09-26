@@ -42,6 +42,21 @@
       "componentType" : "LABEL",
       "groupIdentifier" : "flow-contents-group",
       "height" : 150.0,
+      "identifier" : "d3684255-6a72-3aed-bffa-afd9a8eee78b",
+      "label" : "sdasdada",
+      "position" : {
+        "x" : -464.0,
+        "y" : -376.0
+      },
+      "style" : {
+        "font-size" : "12px"
+      },
+      "width" : 150.0,
+      "zIndex" : 3
+    }, {
+      "componentType" : "LABEL",
+      "groupIdentifier" : "flow-contents-group",
+      "height" : 150.0,
       "identifier" : "f15669f9-6dd3-329f-9862-be9dbe71ca86",
       "label" : "hola",
       "position" : {
@@ -163,6 +178,6 @@
   "snapshotMetadata" : {
     "author" : "f45b8fe2-113f-47aa-8d90-713eca4cea43",
     "flowIdentifier" : "hola",
-    "timestamp" : 1758919992867
+    "timestamp" : 1758920056968
   }
 }
