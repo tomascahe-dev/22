@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1759236738675,
+    "description" : "",
+    "identifier" : "bulk",
+    "lastModifiedTimestamp" : 1759236738675,
+    "name" : "bulk",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
